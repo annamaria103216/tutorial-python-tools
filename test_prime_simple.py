@@ -7,7 +7,7 @@ def test_small_2():
 
 def test_small_3():
     time.sleep(2)
-    assert isPrime(3) == True
+    assert isPrime(3) == False
 
 def test_small_21():
     time.sleep(2)
